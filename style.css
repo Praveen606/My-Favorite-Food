@@ -1,0 +1,78 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+color: white;
+}
+h1{
+    padding: 15px;
+    color: yellowgreen;
+    justify-content: space-around;
+
+}
+#topliner{
+    background-color: blue;
+}
+h3{
+    padding: 15px;
+    color: yellowgreen;
+    justify-content: space-around;
+    font-size: 20px;
+}
+li{
+    color: blue;
+}
+li a{
+    color: rgb(199, 194, 194);
+    text-decoration: none;
+}
+#t img{
+    height: 500px;
+    width: 700px; 
+    position: absolute;
+left: 25%;
+}
+#t h4{
+    
+color: tomato;
+font-size: 30px;
+}
+#L{
+    height: 100vh;
+}
+#L img{
+    height: 500px;
+    width: 700px; 
+    position: absolute;
+left: 25%;
+
+}
+#L h4{
+
+color: lime;
+font-size: 30px;
+}
+#b img{
+    height: 500px;
+    width: 700px; 
+    position: absolute;
+left: 25%;
+
+}
+#b h4{
+
+    color:burlywood;
+    font-size: 30px;
+    }
+    #i img{
+        height: 500px;
+        width: 700px; 
+        position: absolute;
+    left: 25%;
+    
+    }
+    #i h4{
+    
+        color:white;
+        font-size: 30px;
+        }
